@@ -1,0 +1,31 @@
+ca/cmpt213/as5courseplanner/wrappers/ApiCourseOfferingWrapper.java
+ ca.cmpt213.as5courseplanner.wrappers.ApiCourseOfferingWrapper
+ca/cmpt213/as5courseplanner/wrappers/ApiGraphDataPointWrapper.java
+ ca.cmpt213.as5courseplanner.wrappers.ApiGraphDataPointWrapper
+ca/cmpt213/as5courseplanner/wrappers/ApiAboutWrapper.java
+ ca.cmpt213.as5courseplanner.wrappers.ApiAboutWrapper
+ca/cmpt213/as5courseplanner/wrappers/ApiWatcherWrapper.java
+ ca.cmpt213.as5courseplanner.wrappers.ApiWatcherWrapper
+ca/cmpt213/as5courseplanner/Model/Department.java
+ ca.cmpt213.as5courseplanner.Model.Department
+ca/cmpt213/as5courseplanner/Model/CourseOffering.java
+ ca.cmpt213.as5courseplanner.Model.CourseOffering
+ca/cmpt213/as5courseplanner/Model/Section.java
+ ca.cmpt213.as5courseplanner.Model.Section
+ca/cmpt213/as5courseplanner/controllers/control.java
+ ca.cmpt213.as5courseplanner.controllers.control
+ca/cmpt213/as5courseplanner/wrappers/ApiDepartmentWrapper.java
+ ca.cmpt213.as5courseplanner.wrappers.ApiDepartmentWrapper
+ca/cmpt213/as5courseplanner/Application.java
+ ca.cmpt213.as5courseplanner.Application
+ca/cmpt213/as5courseplanner/Model/CSVExtractor.java
+ ca.cmpt213.as5courseplanner.Model.CSVExtractor
+ ca.cmpt213.as5courseplanner.Model.CSVExtractor$1
+ca/cmpt213/as5courseplanner/wrappers/ApiCourseWrapper.java
+ ca.cmpt213.as5courseplanner.wrappers.ApiCourseWrapper
+ca/cmpt213/as5courseplanner/Model/Course.java
+ ca.cmpt213.as5courseplanner.Model.Course
+ca/cmpt213/as5courseplanner/wrappers/ApiOfferingDataWrapper.java
+ ca.cmpt213.as5courseplanner.wrappers.ApiOfferingDataWrapper
+ca/cmpt213/as5courseplanner/wrappers/ApiOfferingSectionWrapper.java
+ ca.cmpt213.as5courseplanner.wrappers.ApiOfferingSectionWrapper
