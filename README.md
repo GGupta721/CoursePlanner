@@ -24,9 +24,7 @@ GET /api/dump-model: Triggers the application to dump out a summary of the model
 For detailed information on how to use the REST API, please refer to the API documentation provided by the instructor.
 # Technology Stack
 The Course Planner application is built using the following technologies:
-#### Java
-#### Spring Boot
-#### REST API
+#### Java, JavaScript, HTML/CSS, Spring Boot, REST API
 # Contributors
 This project was developed as part of the CMPT 213 course with Dr. Brian. The contributors to this project are Gaurav Gupta and Saqib Hasib.
 # License
